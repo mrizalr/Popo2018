@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 3b50982e1f2e12446bf7407694a6c618
+timeCreated: 1531047054
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Level selection UI_0
+    21300002: Level selection UI_1
+    21300004: Level selection UI_2
+    21300006: Level selection UI_3
+    21300008: Level selection UI_4
+    21300010: Level selection UI_5
+    21300012: Level selection UI_6
+    21300014: Level selection UI_7
+    21300016: Level selection UI_8
+    21300018: Level selection UI_9
+    21300020: Level selection UI_10
+    21300022: Level selection UI_11
+    21300024: Level selection UI_12
+    21300026: Level selection UI_13
+    21300028: Level selection UI_14
+    21300030: Level selection UI_15
+    21300032: Level selection UI_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level selection UI_0
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 8999
+        width: 2089
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_1
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 8287
+        width: 1049
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_2
+      rect:
+        serializedVersion: 2
+        x: 9165
+        y: 5998
+        width: 2303
+        height: 2295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_3
+      rect:
+        serializedVersion: 2
+        x: 11523
+        y: 6081
+        width: 2302
+        height: 2300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_4
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 7410
+        width: 880
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_5
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 7403
+        width: 1473
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_6
+      rect:
+        serializedVersion: 2
+        x: 6835
+        y: 5848
+        width: 2303
+        height: 2299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_7
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7231
+        width: 2500
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_8
+      rect:
+        serializedVersion: 2
+        x: 5521
+        y: 6628
+        width: 663
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_9
+      rect:
+        serializedVersion: 2
+        x: 5527
+        y: 5683
+        width: 660
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2538
+        width: 2302
+        height: 2295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_11
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2628
+        width: 2305
+        height: 2297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_12
+      rect:
+        serializedVersion: 2
+        x: 6863
+        y: 2394
+        width: 2302
+        height: 2295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_13
+      rect:
+        serializedVersion: 2
+        x: 9357
+        y: 2477
+        width: 2303
+        height: 2295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_14
+      rect:
+        serializedVersion: 2
+        x: 11742
+        y: 2696
+        width: 2292
+        height: 2300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2292
+        height: 2285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level selection UI_16
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 120
+        width: 2303
+        height: 2295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

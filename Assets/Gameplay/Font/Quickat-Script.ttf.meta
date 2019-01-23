@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 53e55f833fa70e84ab10733aa48b7a88
+timeCreated: 1527236122
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Quickat
+  fontNames:
+  - Quickat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
